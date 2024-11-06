@@ -10,7 +10,6 @@ I'm a Computer Systems Technician with a strong foundation in network engineerin
 - **IT Support**: POS Troubleshooting, VMware, Hardware & Software Support, Customer Support
 - **Data Analytics**: SQL, Spreadsheets, Google Data Analytics, Data Visualization
 - **Tools & Platforms**: Cisco Packet Tracer, Wireshark, Git, Linux, Windows OS
-- **Certifications in Progress**: Google IT Support, Microsoft Computer Support Specialist, CCNA
 
 ## 🎓 Education & Certifications
 
