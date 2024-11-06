@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Inah De Leon!
 
-<!--
-**ijmld/ijmld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ About Me
 
-Here are some ideas to get you started:
+I'm a Computer Systems Technician with a strong foundation in network engineering, IT support, and data analytics. From troubleshooting POS systems to configuring enterprise networks, I continuously build my skills and am currently pursuing certifications in IT/Computer support and CCNA to further deepen my expertise.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills and Technologies
+
+- **Networking**: Cisco Routers & Switches, Network Configuration, Troubleshooting, Network Security
+- **IT Support**: POS Troubleshooting, VMware, Hardware & Software Support, Customer Support
+- **Data Analytics**: SQL, Spreadsheets, Google Data Analytics, Data Visualization
+- **Tools & Platforms**: Cisco Packet Tracer, Wireshark, Git, Linux, Windows OS
+- **Certifications in Progress**: Google IT Support, Microsoft Computer Support Specialist, CCNA
+
+## 🎓 Education & Certifications
+
+- **Diploma** in Computer Systems Technician, Cambrian College, ON, Canada
+- **Google Data Analytics Professional Certificate**
+- **Microsoft Computer Support Specialist Professional Certificate** _(Expected December 2024)_
+- **CCNA Certification** _(Expected February 2025)_
+
+## 🚀 Featured Projects
+
+- **Enterprise Network Configuration and Security Project**: A comprehensive project demonstrating network configuration and security best practices.
+- **POS Troubleshooting and Support**: Experience in real-world troubleshooting and support within high-demand environments, with skills applicable to complex IT support scenarios.
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ijmld&show_icons=true&theme=radical)
+
+## 📫 Let's Connect!
+
+- **LinkedIn**: [My LinkedIn Profile](https://linkedin.com/in/ijdeleon)
+- **Email**: [inahjdleon@gmail.com](mailto:inahjdleon@gmail.com)
