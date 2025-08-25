@@ -15,8 +15,8 @@ I'm a Computer Systems Technician with a strong foundation in network engineerin
 
 - **Diploma** in Computer Systems Technician, Cambrian College, ON, Canada
 - **Google Data Analytics Professional Certificate**
-- **Microsoft Computer Support Specialist Professional Certificate** _(Expected December 2024)_
-- **CCNA Certification** _(Expected February 2025)_
+- **Microsoft Computer Support Specialist Professional Certificate** 
+- **CCNA Certification** _(Expected 2025)_
 
 ## 🚀 Featured Projects
 
